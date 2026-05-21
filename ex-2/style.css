@@ -1,1 +1,15 @@
-/* Start coding here */
+.box{
+    border: 16px solid lightgray;
+}
+.inside-box{
+    border: 16px solid black;
+}
+
+h1{
+    margin: 0px;
+    height: 90vh;
+    font-size: 72px;
+    text-align: center;
+    border: 24px solid crimson;
+    background-color: khaki;
+}
